@@ -1,0 +1,13 @@
+{
+  "name": "vue-tailwindcss-layout",
+  "version": "1.0.0",
+  "description": "vue and tailwind example layout",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "tailwindcss": "1.2.0",
+    "vue": "2.6.11",
+    "vue-fragment": "1.5.1",
+    "vue-router": "3.1.6"
+  }
+}
